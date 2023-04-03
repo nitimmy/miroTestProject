@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-03T23:47:13 AST" name="Default suite" finished-at="2023-04-03T23:47:55 AST" duration-ms="42064">
+    <groups>
+    </groups>
+    <test started-at="2023-04-03T23:47:13 AST" name="Default test" finished-at="2023-04-03T23:47:55 AST" duration-ms="42064">
+      <class name="Miro_TestCases.MiroStrickerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Miro_TestCases.MiroStrickerTest@38c6f217]" started-at="2023-04-03T23:47:13 AST" name="setUp" finished-at="2023-04-03T23:47:19 AST" duration-ms="6496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createBoardTest()[pri:0, instance:Miro_TestCases.MiroStrickerTest@38c6f217]" started-at="2023-04-03T23:47:19 AST" name="createBoardTest" finished-at="2023-04-03T23:47:40 AST" duration-ms="21138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBoardTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Miro_TestCases.MiroStrickerTest@38c6f217]" started-at="2023-04-03T23:47:40 AST" name="tearDown" finished-at="2023-04-03T23:47:41 AST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Miro_TestCases.MiroStrickerTest@38c6f217]" started-at="2023-04-03T23:47:41 AST" name="setUp" finished-at="2023-04-03T23:47:45 AST" duration-ms="4355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="secondUserVerifyBoardTest()[pri:0, instance:Miro_TestCases.MiroStrickerTest@38c6f217]" started-at="2023-04-03T23:47:45 AST" name="secondUserVerifyBoardTest" finished-at="2023-04-03T23:47:55 AST" depends-on-methods="Miro_TestCases.MiroStrickerTest.createBoardTest" duration-ms="9711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondUserVerifyBoardTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Miro_TestCases.MiroStrickerTest@38c6f217]" started-at="2023-04-03T23:47:55 AST" name="tearDown" finished-at="2023-04-03T23:47:55 AST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Miro_TestCases.MiroStrickerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
